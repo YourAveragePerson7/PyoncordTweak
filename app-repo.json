@@ -14,6 +14,12 @@
       "versions": [
         {
           "version": "252.0",
+          "date": "2024-11-01",
+          "size": 101575803,
+          "downloadURL": "https://github.com/YourAveragePerson7/PyoncordTweak/releases/download/v252.0/Bunny.ipa"
+        },
+        {
+          "version": "252.0",
           "date": "2024-10-25",
           "size": 100375022,
           "downloadURL": "https://github.com/castdrian/PyoncordTweak/releases/download/v252.0/Bunny.ipa"
